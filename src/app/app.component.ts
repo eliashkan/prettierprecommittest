@@ -11,4 +11,5 @@ export class AppComponent {
     name: 'John Doe',
     age: 30,
   };
+  quotes = 'This "example" is single quoted';
 }
