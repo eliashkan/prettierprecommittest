@@ -7,6 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'prettierprecommittest';
-  text = 'prettierprecommittest';
-  variable = 'prettierprecommittest';
+  user = { name: 'John Doe', age: 30 };
 }
